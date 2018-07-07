@@ -44,43 +44,29 @@ collections: # A list of collections the CMS should be able to edit
             name: "link"
             widget: "string"
 
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
-        fields:
-          - label: "Name"
-            name: "category_name"
-            widget: "relation"
-            collection: "category"
-            searchFields: ["title"]
-            valueField: "title"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "category"
+        searchFields: ["title"]
+        valueField: "title"
 
       - label: "Body"
         name: "body"
         widget: "markdown"
 
       - label: "Set"
-        name: "set_object"
-        widget: "object"
-        fields:
-          - label: "Name"
-            name: "set"
-            widget: "relation"
-            collection: "set"
-            searchFields: ["title"]
-            valueField: "title"
+        name: "set"
+        widget: "relation"
+        collection: "set"
+        searchFields: ["title"]
+        valueField: "title"
 
-          - label: "Order"
-            name: "set_order"
-            widget: "number"
-            valueType: "int"
-            min: 1
-
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - label: "Publish Date"
-        name: "date"
-        widget: "date"
-        format: "YYYY-MM-DD"
+      - label: "Set Order"
+        name: "set_order"
+        widget: "number"
+        valueType: "int"
+        min: 1
 
   - name: "set" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Set" # Used in the UI, ie.: "New Post"
