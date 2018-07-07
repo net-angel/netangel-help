@@ -39,24 +39,25 @@ collections: # A list of collections the CMS should be able to edit
           - label: "Name"
             name: "name"
             widget: "string"
+
           - label: "Link"
             name: "link"
             widget: "string"
 
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-
       - label: "Categories"
         name: "categories"
         widget: "list"
-        field:
+        fields:
           - label: "Name"
-            name: "categories"
+            name: "category_name"
             widget: "relation"
             collection: "category"
             searchFields: ["title"]
             valueField: "title"
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
 
       - label: "Set"
         name: "set_object"
