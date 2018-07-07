@@ -1,6 +1,6 @@
 backend:
   name: gitlab
-  repo: netangel/netangel-cms
+  repo: netangel/netangel-help
   branch: master # Branch to update (master by default)
 
 media_folder: "help/img/uploads" # Folder where user uploaded files should go
