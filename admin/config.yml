@@ -51,9 +51,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "categories"
         widget: "list"
         field:
-          - label: "Name"
-            name: "name"
-            widget: "string"
+          - widget: "string"
 
       - label: "Set"
         name: "set_object"
