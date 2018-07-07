@@ -50,7 +50,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Categories"
         name: "categories"
         widget: "relation"
-        collection: "categories"
+        collection: "category"
         searchFields: ["title"]
         valueField: "title"
 
