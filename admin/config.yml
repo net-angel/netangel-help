@@ -31,11 +31,12 @@ collections: # A list of collections the CMS should be able to edit
       - label: "YouTube Video ID"
         name: "video_id"
         widget: "string"
-        require: false
+        required: false
 
       - label: "Resources"
         name: "resources"
         widget: "list"
+        required: false
         fields:
           - label: "Name"
             name: "name"
@@ -56,6 +57,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Set"
         name: "set"
         widget: "relation"
+        required: false
         collection: "set"
         searchFields: ["title"]
         valueField: "title"
@@ -63,6 +65,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Set Order"
         name: "set_order"
         widget: "number"
+        required: false
         valueType: "int"
         min: 1
 
