@@ -50,8 +50,6 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Categories"
         name: "categories"
         widget: "list"
-        field:
-          - widget: "string"
 
       - label: "Set"
         name: "set_object"
