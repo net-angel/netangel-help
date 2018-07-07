@@ -84,3 +84,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "description"
         widget: "string"
         tagname: ""
+
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
