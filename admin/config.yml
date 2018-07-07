@@ -60,6 +60,7 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         collection: "set"
         searchFields: ["title"]
+        displayFields: ["title"]
         valueField: "slug"
 
       - label: "Set Order"
