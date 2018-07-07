@@ -6,7 +6,7 @@ url: "https://www.netangel.com"
 baseurl: "/help"
 google_analytics_key:
 disqus_shortname:
-newsletter_action:
+newsletter_action: # TODO
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /help/netangel-logo-sm.png # TODO
