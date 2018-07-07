@@ -1,16 +1,28 @@
 - name:
-  link: https://facebook.com/
+  link: https://www.facebook.com/NetAngelFilter
   new_window: true
   social_icon: Facebook
 - name:
-  link: https://twitter.com/
+  link: https://twitter.com/netangelfilter
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://youtube.com/
+  link: https://plus.google.com/+NetangelFilter
+  social_icon: Google Plus
+  new_window: true
+- name:
+  link: https://www.linkedin.com/company/netangel
+  social_icon: LinkedIn
+  new_window: true
+- name:
+  link: https://www.youtube.com/c/NetAngelFilter
   social_icon: YouTube
   new_window: true
-- name: 
+- name:
+  link: https://www.instagram.com/netangelfilter
+  social_icon: Instagram
+  new_window: true
+- name:
   link: /feed.xml
   social_icon: RSS
   new_window: false

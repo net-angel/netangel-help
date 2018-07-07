@@ -1,24 +1,33 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
-baseurl:
+title: Help Center | NetAngel
+url: "https://www.netangel.com"
+baseurl: "/help"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+logo: /help/netangel-logo-sm.png # TODO
+description: >-
+  New to NetAngel? Learn about NetAngel and how our web filter works.
+  Running into a problem? Try searching our help documents and knowledge
+  base articles. Find tutorials, articles, videos, walkthroughs,
+  features, and more.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: NetAngel
+  email: info@netangel.com
+  twitter: netangelfilter
 social:
-  name: Base Template
+  name: NetAngel
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://www.facebook.com/NetAngelFilter
+    - https://twitter.com/netangelfilter
+    - https://plus.google.com/+NetangelFilter
+    - https://www.linkedin.com/company/netangel
+    - https://www.youtube.com/c/NetAngelFilter
+    - https://www.instagram.com/netangelfilter
 
 # -----
 # Build
@@ -71,7 +80,7 @@ defaults:
       body_class: "show_hero_search"
 
 # -----------
-# CloudCannon
+# CloudCannon  # TODO
 
 social_icons:
   - Facebook
@@ -85,6 +94,7 @@ social_icons:
   - Email
   - RSS
 
+# TODO
 types:
   - Document
   - Video
