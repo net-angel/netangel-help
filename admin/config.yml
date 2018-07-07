@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "relation"
         collection: "categories"
         searchFields: ["title"]
-        valueField: "{{slug}}"
+        valueField: "title"
 
       - label: "Set"
         name: "set_object"
@@ -63,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: "relation"
             collection: "set"
             searchFields: ["title"]
-            valueField: "{{slug}}"
+            valueField: "title"
 
           - label: "Order"
             name: "set_order"
