@@ -1,7 +1,7 @@
 ---
 type: Document
 title: Downgrade Plan
-description: ''
+description: How to Downgrade Plan to Free
 categories:
   - FAQs
 ---
