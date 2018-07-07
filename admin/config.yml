@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: "Name"
             name: "set"
             widget: "relation"
-            collection: "set",
+            collection: "set"
             searchFields: ["title"]
             valueField: "title"
             displayFields: ["title", "description"]
