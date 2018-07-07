@@ -27,12 +27,6 @@ collections: # A list of collections the CMS should be able to edit
         widget: "string"
         tagname: ""
 
-      # TODO: Make this a custom widget?
-      - label: "YouTube Video ID"
-        name: "video_id"
-        widget: "string"
-        required: false
-
       - label: "Resources"
         name: "resources"
         widget: "list"
@@ -54,13 +48,19 @@ collections: # A list of collections the CMS should be able to edit
         name: "categories"
         widget: "list"
 
+      # TODO: Make this a custom widget?
+      - label: "YouTube Video ID"
+        name: "video_id"
+        widget: "string"
+        required: false
+
       - label: "Set"
         name: "set"
         widget: "relation"
         required: false
         collection: "set"
         searchFields: ["title"]
-        valueField: "title"
+        valueField: "slug"
 
       - label: "Set Order"
         name: "set_order"
