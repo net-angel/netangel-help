@@ -61,7 +61,7 @@ collections: # A list of collections the CMS should be able to edit
         collection: "set"
         searchFields: ["title"]
         displayFields: ["title"]
-        valueField: "slug"
+        valueField: "id"
 
       - label: "Set Order"
         name: "set_order"
@@ -85,6 +85,6 @@ collections: # A list of collections the CMS should be able to edit
         widget: "string"
         tagname: ""
 
-      - label: "Slug"
-        name: "slug"
+      - label: "ID"
+        name: "id"
         widget: "string"
