@@ -24,13 +24,24 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Description"
         name: "description"
         widget: "string"
-        tagname: "h2"
+        tagname: ""
 
       # TODO: Make this a custom widget?
-      - label: "Video ID"
+      - label: "YouTube Video ID"
         name: "video_id"
         widget: "string"
         require: false
+
+      - label: "Resources"
+        name: "resources"
+        widget: "list"
+        fields:
+          - label: "Name"
+            name: "name"
+            widget: "string"
+          - label: "Link"
+            name: "link"
+            widget: "string"
 
       - label: "Body"
         name: "body"
@@ -44,17 +55,6 @@ collections: # A list of collections the CMS should be able to edit
             name: "name"
             widget: "string"
 
-      - label: "Resources"
-        name: "resources"
-        widget: "list"
-        fields:
-          - label: "Name"
-            name: "name"
-            widget: "string"
-          - label: "Link"
-            name: "link"
-            widget: "string"
-
       - label: "Set"
         name: "set_object"
         widget: "object"
@@ -64,8 +64,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: "relation"
             collection: "set"
             searchFields: ["title"]
-            valueField: "title"
-            displayFields: ["title", "description"]
+            valueField: "slug"
 
           - label: "Order"
             name: "set_order"
@@ -92,4 +91,4 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Description"
         name: "description"
         widget: "string"
-        tagname: "h2"
+        tagname: ""
