@@ -1,6 +1,6 @@
 ---
 type: Document
-title: Configure Your Router for NetAngel DNS
+title: Generic Router Instructions
 description: Configure Your Router for NetAngel DNS
 categories:
   - NetAngel DNS
