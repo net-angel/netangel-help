@@ -40,11 +40,7 @@ If you have IPv6, you will also need to enter these in the IPv6 DNS settings:
 
 It is important to note that about every 1-2 months, your IP address may change. This will result in a loss of internet connection. If this occurs, you can solve this problem by going to:
 
->
->
-> [dashboard.netangel.com](dashboard.netangel.com)
->
->  > click on your router device > click "Manage Device"
+[dashboard.netangel.com](dashboard.netangel.com) > click on your router device > click "Manage Device"
 
 On this screen, you'll want to ensure that your "Public IP Address" matches your "Current IP Address". If it does not, simply click "Use this" then click "Save".
 
