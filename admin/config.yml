@@ -2,6 +2,8 @@ backend:
   name: gitlab
   repo: netangel/netangel-help
   branch: master # Branch to update (master by default)
+  auth_type: implicit
+  app_id: f0457894128c1e19e30024820c5efec9a2949ffae0a3a246b81c3c1ef7aecee7
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 public_folder: "/help/img/uploads"
