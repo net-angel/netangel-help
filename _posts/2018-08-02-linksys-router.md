@@ -3,7 +3,7 @@ type: Document
 title: Linksys Router
 description: How to set up a Linksys Router with NetAngel DNS
 categories:
-  - DNS
+  - NetAngel DNS
 ---
 Sign into your router's web-based admin website (usually this is http://192.168.0.1 or http://192.168.1.1  If you are unable to access your routers admin page, please consult the Linksys support site for help.  https://www.linksys.com/us/support/)
 
