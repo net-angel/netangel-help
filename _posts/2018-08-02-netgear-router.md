@@ -5,7 +5,7 @@ description: How to set up NetGear Router with  NetAngel DNS
 categories:
   - NetAngel DNS
 ---
- Login to your NetGear Router by going to www.routerlogin.com or www.routerlogin.net 
+1. Login to your NetGear Router by going to www.routerlogin.com or www.routerlogin.net 
 
 2. Log in to your router - the default username is "admin" and the default password is "password", unless you have previouslyl changed this information. 
 3. Find and click "Internet". 
