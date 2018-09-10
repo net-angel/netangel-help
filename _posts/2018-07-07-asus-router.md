@@ -23,7 +23,7 @@ Before changing the DNS settings on your router, make sure you have created a DN
 
 ![ASUS Router WAN DNS Setting](/help/img/uploads/8d6u80ldp5zm5uazl9be299rzkwx5nl5fl0gl29hsdmswr3a5o.png)
 
-5. Two fields will appear: DNS Server 1 and DNS Server 2. Type 138.68.51.225 into both fields. 
+5. Two fields will appear: DNS Server 1 and DNS Server 2. Type 54.70.46.42 into the first one and 54.70.76.29 into the second one. 
 
 ![ASUS Router WAN DNS Setting](/help/img/uploads/4zkccel3eo7o0q85hhbgjjca4o146iv4g3ce64y8rjvd5jfzjr.png)
 
