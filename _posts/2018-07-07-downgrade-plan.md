@@ -1,7 +1,7 @@
 ---
 type: Document
-title: Downgrade Plan
-description: How to Downgrade Plan to Free
+title: Cancel Subscription
+description: How to Cancel your Subscription
 categories:
   - FAQs
 ---
@@ -9,4 +9,4 @@ categories:
 2. Click on "Settings" in the top right corner
 3. Click on "Billing"
 4. Click the "Cancel subscription" button
-5. Click "Downgrade to free" on the popup window
+5. Click "Cancel Subscription" on the popup window
