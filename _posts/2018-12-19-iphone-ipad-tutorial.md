@@ -3,7 +3,7 @@ type: Document
 title: iPhone & iPad Tutorial
 description: How to set up your iOS devices
 categories:
-  - Tutorial
+  - How to Install NetAngel
 ---
 1. Go to www.netangel.com and log in to your NetAngel account
 2. Click "Devices" on the left-hand side
