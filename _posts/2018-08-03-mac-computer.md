@@ -35,4 +35,4 @@ categories:
 
 
 
-8. You can test the filter by going to filtertest.netangel.com
+8. Once installed, the computer should automatically connect to the NetAngel VPN and protect your device. You can test the filter by going to filtertest.netangel.com
