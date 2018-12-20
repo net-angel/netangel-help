@@ -23,18 +23,16 @@ categories:
 
 5. You're going to be asked if you want to install the NetAngel Filter. Click "Continue"
 
-![](/help/img/uploads/step-4-na.png)
+![null](/help/img/uploads/step-4-na.png)
 
 6. Click "Install" to then install NetAngel on your Mac computer
 
-![](/help/img/uploads/step-5-na.png)
+![null](/help/img/uploads/step-5-na.png)
 
 7. Enter the administrator name and password to allow NetAngel to install
 
-![](/help/img/uploads/step-6-na.png)
+![null](/help/img/uploads/step-6-na.png)
 
-8. Once NetAngel is downloaded and installed, find and open the NetAngel Icon on your Mac desktop. You'll be prompted to log in to your NetAngel account
 
-9. After logging in, name your device and click "Protect"
 
-10. You can test the filter by going to filtertest.netangel.com
+8. You can test the filter by going to filtertest.netangel.com
