@@ -6,5 +6,4 @@ categories:
   - How to Install NetAngel
 ---
 1. Go to[ www.netangel.com](www.netangel.com) and log in to your account
-
 2.
