@@ -6,7 +6,9 @@ categories:
   - How to Install NetAngel
 video_id: 'https://youtu.be/_S7wGVvA7XQ'
 ---
-1. Download the NetAngel App from the App Store (you download it HERE)
+View our video tutorial [HERE.](https://youtu.be/_S7wGVvA7XQ)
+
+1. Download the NetAngel App from the App Store (download it [HERE](https://play.google.com/store/apps/details?id=com.netangel))
 
 ![null](/help/img/uploads/download-app.png)
 
