@@ -8,6 +8,8 @@ categories:
   - Android
 video_id: 'https://youtu.be/sUVn4FYxwD0'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUVn4FYxwD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **How to Edit Filter Settings**
 
 Select your Android device, which will load the Android Device View. Under the "Activity" tab, you can see:
