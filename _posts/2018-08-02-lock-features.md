@@ -6,7 +6,7 @@ categories:
   - Android
 video_id: 'https://youtu.be/4SYRkQkHKz8'
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SYRkQkHKz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Begin by logging in to your NetAngel dashboard (dashboard.netangel.com) and selecting which device you wish to edit. 
 
