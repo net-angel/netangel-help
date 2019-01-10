@@ -8,6 +8,8 @@ categories:
   - Android
 video_id: 'https://youtu.be/9SK8vR6R8F4'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9SK8vR6R8F4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Enabling SMS Texts & Call Monitoring**
 
 
