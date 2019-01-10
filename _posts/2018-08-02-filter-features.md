@@ -6,6 +6,8 @@ categories:
   - Android
 video_id: 'https://youtu.be/uAu87zlOzOM'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uAu87zlOzOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **YouTube and SafeSearch Options**
 
 
