@@ -13,18 +13,18 @@ Login to your NetAngel Router by typing 192.168.25.1 into a web browser and hit 
 
 Once logged in, find and hover over the menu option "System" across the top. In the drop down menu, select "Backup/Flash Firmware". 
 
-![null](/help/img/uploads/screen-shot-2019-11-07-at-12.56.12-pm.png)
+![](/help/img/uploads/screen-shot-2019-11-07-at-1.44.46-pm.png)
 
 Scroll down to "Flash new firmware image". Find "Keep Settings" and UNCHECK the box. Then, click "Choose file" to find and select the downloaded NetAngel file and click "Flash Image". 
 
 It will then ask you to verify. Click "Proceed". 
 
-![null](/help/img/uploads/screen-shot-2019-11-07-at-12.43.03-pm.png)
+![](/help/img/uploads/screen-shot-2019-11-07-at-1.42.11-pm.png)
 
 Once you click "Proceed", DO NOT UNPLUG YOUR ROUTER. You may lose internet connection for a few minutes while the router updates. 
 
 ![null](/help/img/uploads/screen-shot-2019-11-07-at-12.43.14-pm.png)
 
-After 5 minutes, type in 192.168.25.1 to go back to your router login page. The current screen will not reload itself. Use the default username and default password to login. You can reset the WiFi settings and passwords by selecting "WiFi" across the top. 
+After 5 minutes, type in 192.168.25.1 to go back to your router login page. The current screen will not automatically reload. Use the default username and default password to login. You can reset the WiFi settings and passwords by selecting "WiFi" across the top. 
 
 Congratulations! You've successfully updated and reset your NetAngel Router.
