@@ -23,4 +23,4 @@ To remove NetAngel, follow these steps:
 
 6. Once you've removed NetAngel from the device, you can perform the update. Once completed, re-install NetAngel by going to your [NetAngel Dashboard](dashboard.netangel.com) , find and select the device, click "Manage Device", and "Install Filter". 
 
-If you need any assistance in this process, send us an email at info@netangel.com, call us at 844-602-6435, or send us a live chat at [www.netangel.com](netangel.com)
+If you need any assistance in this process, send us an email at info@netangel.com
