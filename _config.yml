@@ -24,7 +24,6 @@ social:
   links:
     - https://www.facebook.com/NetAngelFilter
     - https://twitter.com/netangelfilter
-    - https://plus.google.com/+NetangelFilter
     - https://www.linkedin.com/company/netangel
     - https://www.youtube.com/c/NetAngelFilter
     - https://www.instagram.com/netangelfilter
@@ -84,7 +83,6 @@ defaults:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
