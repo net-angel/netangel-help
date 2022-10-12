@@ -3,13 +3,13 @@
 
 title: NetAngel
 url: "https://www.netangel.com"
-baseurl: "/help"
+baseurl: "/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action: # TODO
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /help/netangel-logo-sm.png # TODO
+logo: /netangel-logo-sm.png # TODO
 description: >-
   Help Center. New to NetAngel? Learn about NetAngel and how our web filter works.
   Running into a problem? Try searching our help documents and knowledge
