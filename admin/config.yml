@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: netangel/netangel-help
+  repo: net-angel/netangel-help
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go

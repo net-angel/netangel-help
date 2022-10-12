@@ -44,4 +44,4 @@ It is important to note that about every 1-2 months, your IP address may change.
 
 On this screen, you'll want to ensure that your "Public IP Address" matches your "Current IP Address". If it does not, simply click "Use this" then click "Save".
 
-![Public IP Address](/help/img/uploads/25x2o3ddwajzvs5zu8e7g16nuwhlg9bf83jxd77sys182c4n79-1.png)
+![Public IP Address](/img/uploads/25x2o3ddwajzvs5zu8e7g16nuwhlg9bf83jxd77sys182c4n79-1.png)

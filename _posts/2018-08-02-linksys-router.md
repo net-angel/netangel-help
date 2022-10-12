@@ -7,9 +7,9 @@ categories:
 ---
 1. Sign into your router's web-based admin website (usually this is http://192.168.0.1 or http://192.168.1.1  If you are unable to access your routers admin page, please consult the Linksys support site for help.  https://www.linksys.com/us/support/)
 
-2. Find the DNS server settings in your router settings.  This is usually in a setup menu.  Often you will see two DNS fields (one primary and the other secondary. Your router may vary from the following image.) 
+2. Find the DNS server settings in your router settings.  This is usually in a setup menu.  Often you will see two DNS fields (one primary and the other secondary. Your router may vary from the following image.)
 
-![](/help/img/uploads/linksys.jpg)
+![](/img/uploads/linksys.jpg)
 
 3. Enter in the NetAngel DNS server address in the DNS field in your router.
 
