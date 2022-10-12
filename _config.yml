@@ -3,7 +3,7 @@
 
 title: NetAngel
 url: "https://netangel-help.netlify.app"
-baseurl: "/"
+baseurl: ""
 google_analytics_key:
 disqus_shortname:
 newsletter_action: # TODO
