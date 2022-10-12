@@ -2,7 +2,7 @@
 # Site
 
 title: NetAngel
-url: "https://www.netangel.com"
+url: "https://netangel-help.netlify.app"
 baseurl: "/"
 google_analytics_key:
 disqus_shortname:
