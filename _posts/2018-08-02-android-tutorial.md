@@ -6,12 +6,7 @@ categories:
   - How to Install NetAngel
 video_id: 'https://youtu.be/_S7wGVvA7XQ'
 ---
-View our video tutorial [HERE.](https://youtu.be/_S7wGVvA7XQ)
-
-1. Download the NetAngel App from the App Store (download it [HERE](https://play.google.com/store/apps/details?id=com.netangel))
-
-![null](/img/uploads/download-app.png)
-
+1. Download the NetAngel App onto the device you'd like to protect with this link: <https://www.netangel.com/download/android>
 2. The app will prompt you to log in. Enter your NetAngel login information and click "Login".
 
 ![null](/img/uploads/step2.png)
@@ -27,8 +22,6 @@ View our video tutorial [HERE.](https://youtu.be/_S7wGVvA7XQ)
 5. The next screen will say "Copy Configuration". This option allows you to copy the same configuration from another device protected by NetAngel if you have already programmed another device. If you haven't, click "Skip".
 
 ![null](/img/uploads/step3.png)
-
-
 
 6. The next step is "Activate Battery Optimization Exemption". This exempts NetAngel from battery-saving mode, which prevents NetAngel from turning off when battery-saving mode is in use. Click "Activate", then click "Yes" when asked to ignore battery optimization.
 
