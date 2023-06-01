@@ -4,9 +4,10 @@ title: Android Tutorial
 description: How to set up Android devices with NetAngel
 categories:
   - How to Install NetAngel
-video_id: 'https://youtu.be/_S7wGVvA7XQ'
+video_id: "https://youtu.be/_S7wGVvA7XQ"
 ---
-1. Download the NetAngel App onto the device you'd like to protect with this link: <https://www.netangel.com/download/android>
+
+1. Download the NetAngel App onto the device you'd like to protect with this link: <https://www.netangel.com/downloads/android>
 2. The app will prompt you to log in. Enter your NetAngel login information and click "Login".
 
 ![null](/img/uploads/step2.png)
