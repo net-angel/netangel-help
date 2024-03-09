@@ -2,8 +2,7 @@
 type: Document
 title: Which Router Should I Buy
 description: Decision guide on buying a NetAngel Router
-resources:
-  - {}
+resources: []
 categories:
   - NetAngel DOH
 ---
