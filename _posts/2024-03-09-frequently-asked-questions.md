@@ -3,7 +3,7 @@ type: Document
 title: Frequently Asked Questions
 description: Answers to question we commonly get asked
 categories:
-  - Frequently Asked Questions
+  - FAQs
 ---
 * ## Are the routers on your website the only routers supported by NetAngel?
   * No, however they are the only routers we are able to support due to the complexity of networking and differences between all the routers available in the market.  Our service can be used either with DNS or DNS Over Https but you would have to configure your own device.  As most users are not able to configure their own devices we offer our pre configured routers to make the setup experience easy.
