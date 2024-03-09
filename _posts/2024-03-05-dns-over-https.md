@@ -6,7 +6,9 @@ resources: []
 categories:
   - NetAngel DOH
 ---
-# If you have a modem router combo (only one device)
+# If you have a modem router combo 
+
+(only one device)
 
 ![Modem Router Combo](/img/uploads/modem-combo.png)
 
