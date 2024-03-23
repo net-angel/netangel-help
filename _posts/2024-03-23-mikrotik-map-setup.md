@@ -31,4 +31,4 @@ To install your MicroTik mAP pre-configured with NetAngel Connect the MikroTik m
 * Unplug the power from your Internet Service Provider device (modem) and wait 30 seconds then plug it back in.  (This may or may not be necessary for your modem, but some modems must be power cycled when a new device is connected to them.)
 * Wait until all your equipment has time to boot up (30 seconds to 5 minutes depneding on your equipment).  
 
-Your network should now be protected.  You test that the filter is working properly by accessing [testfilter.netangel.com](https://testfilter.netangel.com) from a device that is connected to your network.  This page should come up as blocked and you should shortly receive a notification of the blockage.
+Your network should now be protected.  You can test that the filter is working properly by accessing [testfilter.netangel.com](https://testfilter.netangel.com) from a device that is connected to your network.  This page should come up as blocked and you should shortly receive a notification of the blockage.
